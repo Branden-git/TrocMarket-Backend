@@ -1,0 +1,16 @@
+# Mobile
+mobile/node_modules/
+mobile/.expo/
+mobile/dist/
+mobile/.env
+mobile/.env.local
+
+# Backend
+backend/target/
+backend/*.jar
+backend/src/main/resources/application-local.properties
+
+# OS
+.DS_Store
+Thumbs.db
+*.log
